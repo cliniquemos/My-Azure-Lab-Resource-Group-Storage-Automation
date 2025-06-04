@@ -21,7 +21,7 @@ Languages & Tools
 
 ##  Program Walk-through
 
-## 🔍 Viewing Active Azure Account & Available Regions
+##  Viewing Active Azure Account & Available Regions
 
 ```bash
 az account show --output table
@@ -31,7 +31,7 @@ az account list-locations --output table
 
 ---
 
-## 📁 Creating a Resource Group with Dynamic Naming
+## Creating a Resource Group with Dynamic Naming
 
 ```bash
 let "randomIdentifier=$RANDOM*$RANDOM"
@@ -45,7 +45,7 @@ This script dynamically generated a unique resource group name using my name as 
 
 ---
 
-## 💾 Creating a Storage Account via Azure CLI
+## Creating a Storage Account via Azure CLI
 
 ```bash
 let "randomIdentifier=$RANDOM*$RANDOM"
