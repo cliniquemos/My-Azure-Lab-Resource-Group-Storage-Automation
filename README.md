@@ -23,8 +23,28 @@ Languages & Tools
 
 ### Viewing Active Azure Account & Available Regions
 
-Used the following commands to verify active account and inspect available deployment regions:
+Used the following commands to verify active account and inspect available deployment regions: 
 
 ```bash
 az account show
 az account list-locations
+
+
+## 📁 Creating a Resource Group with Dynamic Naming
+
+## 💾 Creating a Storage Account via Azure CLI
+
+## 📋 Verifying Storage Account Deployment
+
+## 🧹 Post-Project Cleanup
+
+## 💵 Azure Cost Management Tips
+
+## ✅ Tasks Completed
+
+## 🧠 Final Thoughts
+
+## 📘 Try It Yourself
+
+
+
