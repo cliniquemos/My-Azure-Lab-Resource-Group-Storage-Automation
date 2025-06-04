@@ -129,5 +129,4 @@ You can run these commands directly in the [Azure Cloud Shell](https://shell.azu
 
 ---
 
-## 📘 Try It Yourself
 
