@@ -109,11 +109,11 @@ Cleaning up ensures I don’t get charged for unused resources after testing.
 
 ## Tasks Completed
 
-- ☑️ Verified subscription and active region using CLI  
-- ☑️ Created resource group using personalized naming convention  
-- ☑️ Deployed geo-redundant StorageV2 account  
-- ☑️ Verified deployment through Azure CLI  
-- ☑️ Deleted all test resources using automation
+- Verified subscription and active region using CLI  
+- Created resource group using personalized naming convention  
+- Deployed geo-redundant StorageV2 account  
+- Verified deployment through Azure CLI  
+- Deleted all test resources using automation
 
 ---
 
